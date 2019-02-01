@@ -2,7 +2,7 @@ package com.mateus.example.exceptions.service;
 
 
 import com.mateus.example.exceptions.exception.PessoaNotFoundException;
-import com.mateus.example.exceptions.model.Pessoa;
+import com.mateus.example.exceptions.entity.Pessoa;
 import com.mateus.example.exceptions.repository.PessoaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Sort;

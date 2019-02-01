@@ -1,6 +1,6 @@
 package com.mateus.example.exceptions.exception;
 
-import com.mateus.example.exceptions.exception.model.ApiError;
+import com.mateus.example.exceptions.model.ApiError;
 import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

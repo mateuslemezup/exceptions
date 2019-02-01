@@ -1,4 +1,4 @@
-package com.mateus.example.exceptions.exception.model;
+package com.mateus.example.exceptions.model;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import org.springframework.http.HttpStatus;
